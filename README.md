@@ -1,0 +1,2 @@
+# privacy-data-mining-project
+This research aims to investigate the most effective data mining approach for real-time detection of fraudulent calls. The proposed model/framework used in this work consists of two modules: Automated data Integration module which will reduce the overhead incurred due to manual data integration, this makes use of column content similarity index for matching columns in a new and existing dataset for easy integration and Real-time detection and Analysis module based on graph mining, kmeans and neural networks algorithm. 
